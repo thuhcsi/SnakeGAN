@@ -1,0 +1,6 @@
+remote_theme: thuhcsi/slate
+title: Demos of SnakeGAN-A Universal Vocoder Leveraging DDSP Prior Knowledge and Periodic Inductive Bias
+description: Accepted by ICME-2023.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
