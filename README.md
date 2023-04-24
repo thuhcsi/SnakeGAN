@@ -1,2 +1,2 @@
-# icme2023-snakeGAN-vocoder
-Please visit https://thuhcsi.github.io/icme2023-snakeGAN-vocoder/
+# SnakeGAN: A Universal Vocoder Leveraging DDSP Prior Knowledge and Periodic Bias
+Please visit https://thuhcsi.github.io/SnakeGAN/
