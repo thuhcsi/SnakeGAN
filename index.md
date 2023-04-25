@@ -10,14 +10,13 @@ In this work, we propose snakeGAN, a GAN-based universal vocoder, which can gene
 To validate the effectiveness of our proposed method, we performed empirical experiments on various scenarios in subjective and objective metrics.Experimental results show that snakeGAN significantly outperforms the compared approaches and can generate high-fidelity audios including unseen speakers with unseen style, singing voices, instrumental pieces and nonverbal vocalization.
 
 <center>
-    <img src="./wavs/model_arch.png" width="100%" height="100%">
+    <img src="./imgs/model_arch.png" width="100%" height="80%">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"> Fig.1: The architecture of our proposed model. </div>
+    padding: 2px;"> Fig.1: The the proposed SnakeGAN model. </div>
 </center>
-
 
 <!-- # Subjective Evaluation -->
 
