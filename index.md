@@ -18,7 +18,8 @@ To validate the effectiveness of our proposed method, we performed empirical exp
     padding: 2px;"> Fig.1: The proposed SnakeGAN model. </div>
 </center>
 
-<!-- # Subjective Evaluation -->
+
+# Evaluation 
 
 To demonstrate that our proposed model can generate various scenarios such as expressive-speech, singing voice, instrumental pieces and nonverbal vocalization, etc, and that our proposed model has achieved superior performance, some samples are provided for comparison.   **GT (Ref Audio)** means the ground truth audio. **HiFi-GAN** means the official implementation of HiFi-GAN with improved discriminator. **DDSP HooliGAN** means the DDSP-based source-filter vocoder HooliGAN, also with improved discriminator. **SnakeGANv1** means the proposed model in version 1, which takes the DDSP coarse-grained signal as audio template, and the GAN generator only need to learn the residual. **SnakeGANv2** means the proposed model in version 2, which incorporates the DDSP coarse-grained signal into generator by DWT down sampling to each upsampple blocks as prior knowledge. We use 278 hours speech training data in total, mixing Mandarin and English voices.
 
